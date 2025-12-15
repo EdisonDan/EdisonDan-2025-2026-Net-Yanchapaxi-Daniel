@@ -1,0 +1,15 @@
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.AssemblyInfoInputs.cache
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.AssemblyInfo.cs
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.csproj.CoreCompileInputs.cache
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.sourcelink.json
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\bin\Debug\net10.0\semana4.exe
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\bin\Debug\net10.0\semana4.deps.json
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\bin\Debug\net10.0\semana4.runtimeconfig.json
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\bin\Debug\net10.0\semana4.dll
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\bin\Debug\net10.0\semana4.pdb
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.dll
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\refint\semana4.dll
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.pdb
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\semana4.genruntimeconfig.cache
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana4\obj\Debug\net10.0\ref\semana4.dll

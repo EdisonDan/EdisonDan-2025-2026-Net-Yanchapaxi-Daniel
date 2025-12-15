@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\garzo\\Documents\\trae_projects\\net\\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\\figurasgeometricas\\figurasgeometricas.csproj",
-      "projectName": "figurasgeometricas",
-      "projectPath": "C:\\Users\\garzo\\Documents\\trae_projects\\net\\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\\figurasgeometricas\\figurasgeometricas.csproj",
+      "projectUniqueName": "C:\\Users\\garzo\\Documents\\trae_projects\\net\\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\\semana4\\semana4.csproj",
+      "projectName": "semana4",
+      "projectPath": "C:\\Users\\garzo\\Documents\\trae_projects\\net\\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\\semana4\\semana4.csproj",
       "packagesPath": "C:\\Users\\garzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\garzo\\Documents\\trae_projects\\net\\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\\figurasgeometricas\\obj\\",
+      "outputPath": "C:\\Users\\garzo\\Documents\\trae_projects\\net\\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\\semana4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\garzo\\AppData\\Roaming\\NuGet\\NuGet.Config"

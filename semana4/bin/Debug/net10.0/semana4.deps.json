@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "figurasgeometricas/1.0.0": {
+      "semana4/1.0.0": {
         "runtime": {
-          "figurasgeometricas.dll": {}
+          "semana4.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "figurasgeometricas/1.0.0": {
+    "semana4/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
