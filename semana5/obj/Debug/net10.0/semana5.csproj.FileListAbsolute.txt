@@ -1,0 +1,15 @@
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\bin\Debug\net10.0\semana5.exe
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\bin\Debug\net10.0\semana5.deps.json
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\bin\Debug\net10.0\semana5.runtimeconfig.json
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\bin\Debug\net10.0\semana5.dll
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\bin\Debug\net10.0\semana5.pdb
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.AssemblyInfoInputs.cache
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.AssemblyInfo.cs
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.csproj.CoreCompileInputs.cache
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.sourcelink.json
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.dll
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\refint\semana5.dll
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.pdb
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\semana5.genruntimeconfig.cache
+C:\Users\garzo\Documents\trae_projects\net\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana5\obj\Debug\net10.0\ref\semana5.dll
