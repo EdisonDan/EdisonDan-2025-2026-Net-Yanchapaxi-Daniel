@@ -1,0 +1,14 @@
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\bin\Debug\net8.0\semana10.exe
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\bin\Debug\net8.0\semana10.deps.json
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\bin\Debug\net8.0\semana10.runtimeconfig.json
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\bin\Debug\net8.0\semana10.dll
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\bin\Debug\net8.0\semana10.pdb
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.AssemblyInfoInputs.cache
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.AssemblyInfo.cs
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.csproj.CoreCompileInputs.cache
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.dll
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\refint\semana10.dll
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.pdb
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\semana10.genruntimeconfig.cache
+C:\Users\garzo\OneDrive\Documents\trae_projects\net\parcial2\semana10\obj\Debug\net8.0\ref\semana10.dll
