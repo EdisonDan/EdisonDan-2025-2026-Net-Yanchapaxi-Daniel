@@ -1,0 +1,15 @@
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\bin\Debug\net10.0\semana14.exe
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\bin\Debug\net10.0\semana14.deps.json
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\bin\Debug\net10.0\semana14.runtimeconfig.json
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\bin\Debug\net10.0\semana14.dll
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\bin\Debug\net10.0\semana14.pdb
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.AssemblyInfoInputs.cache
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.AssemblyInfo.cs
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.csproj.CoreCompileInputs.cache
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.sourcelink.json
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.dll
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\refint\semana14.dll
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.pdb
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\semana14.genruntimeconfig.cache
+C:\Users\DAN\Documents\GitHub\EdisonDan-2025-2026-Net-Yanchapaxi-Daniel\semana14\obj\Debug\net10.0\ref\semana14.dll
